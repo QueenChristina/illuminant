@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/low_wideA.obj-d025adf5a066b1a73560d5333eb4a157.mesh"
+
+[deps]
+
+files=[ "res://.import/low_wideA.obj-d025adf5a066b1a73560d5333eb4a157.mesh" ]
+
+source_file="res://assets/Models/OBJ format/low_wideA.obj"
+dest_files=[ "res://.import/low_wideA.obj-d025adf5a066b1a73560d5333eb4a157.mesh", "res://.import/low_wideA.obj-d025adf5a066b1a73560d5333eb4a157.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

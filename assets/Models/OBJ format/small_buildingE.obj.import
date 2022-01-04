@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/small_buildingE.obj-d3608a9c09b5195717e46bbd31f2976a.mesh"
+
+[deps]
+
+files=[ "res://.import/small_buildingE.obj-d3608a9c09b5195717e46bbd31f2976a.mesh" ]
+
+source_file="res://assets/Models/OBJ format/small_buildingE.obj"
+dest_files=[ "res://.import/small_buildingE.obj-d3608a9c09b5195717e46bbd31f2976a.mesh", "res://.import/small_buildingE.obj-d3608a9c09b5195717e46bbd31f2976a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
